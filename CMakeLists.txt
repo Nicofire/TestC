@@ -12,4 +12,6 @@ add_executable(TestC
         src/objects/Page.cpp
         src/objects/Page.h
         src/view/Screen.cpp
-        src/view/Screen.h)
+        src/view/Screen.h
+        "src/Hello World/helloworld.c"
+        "src/Hello World/secend.cpp")
