@@ -1,0 +1,3 @@
+C:/Users/nesic/Documents/CLion/cmake-build-debug/CMakeFiles/TestC.dir
+C:/Users/nesic/Documents/CLion/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/nesic/Documents/CLion/cmake-build-debug/CMakeFiles/rebuild_cache.dir
